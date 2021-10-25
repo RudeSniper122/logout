@@ -40,7 +40,7 @@ body{
 
 /* logout content section */
 .logoutContent{
-  height: 73vh;
+  height: 70vh;
   text-align: center;
   display: flex;
   flex-direction: column;
