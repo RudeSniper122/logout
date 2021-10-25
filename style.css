@@ -31,11 +31,14 @@ body{
   margin-bottom: 10px;
 }
 .dashboardImg{
-  /* border: 5px solid white; */
   color: #fff;
   margin: 20px 20px 0 0;
   height: 100px;
-  border-radius: 50px;
+}
+.dashboardImg img{
+  border-radius: 50%;
+  height: 90px;
+  width: 90px;
 }
 
 /* logout content section */
